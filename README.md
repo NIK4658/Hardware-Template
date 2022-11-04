@@ -51,7 +51,7 @@ Check the report in the repository if avaiable.
 (Do you want to have it printed? Click Here.)
 
 
-## Electrical diagram (if necessary)
+## Wiring diagram (if necessary)
 
 <p class="Electrical Diagram Image" align="center">
   <img align="center" src="./src/images/sampleImage.png" width="1000">
