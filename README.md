@@ -12,7 +12,9 @@ Tags: (little images)
 
 Year / quarter / month / period (Optional)
 
-[ * Project presentation image * ]
+<p class="Project Presentation Image" align="center">
+  <img align="center" src="./src/images/sampleImage.png" width="1000">
+</p>
 
 ### Features
 - 
@@ -40,14 +42,20 @@ Check the report in the repository if avaiable.
 
 ## 3D MODELS IMAGES (if necessary)
 
-- * One or two images that contains multiple view of one or many 3D models *
+<p class="3D MODELS IMAGES" align="center">
+  <img align="center" src="./src/images/sampleImage.png" width="1000">
+</p>
+
+(One or two images that contains multiple view of one or many 3D models)
 
 (Do you want to have it printed? Click Here.)
 
 
 ## Electrical diagram (if necessary)
 
-- * Electrical Diagram Image * 
+<p class="Electrical Diagram Image" align="center">
+  <img align="center" src="./src/images/sampleImage.png" width="1000">
+</p>
 
 Hardware components:
 - 1 x Arduino
@@ -74,8 +82,12 @@ Necessary tools:
 
 ### RENDER
 
-*  * single image render? *
+<p class="Single Image Render?" align="center">
+  <img align="center" src="./src/images/sampleImage.png" width="1000">
+</p>
 
 ## IRL (Project Completed)
 
-*  * Multiple IRL images? *
+<p class="Multiple IRL Images?" align="center">
+  <img align="center" src="./src/images/sampleImage.png" width="1000">
+</p>
