@@ -1,6 +1,6 @@
 # **PROJECT TITLE** 🚧 ![StatusBadge](https://badgen.net/badge/Status/Completed/green) ![StatusBadge](https://badgen.net/badge/Status/In%20Progress/orange) ![StatusBadge](https://badgen.net/badge/Status/Not%20Completed/red) 
 
-Tags: (little images)
+Tags: (https://shields.io/)
 
 
 
