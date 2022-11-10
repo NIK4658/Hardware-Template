@@ -16,31 +16,31 @@ Year / quarter / month / period (Optional)
   <img align="center" src="./src/images/sampleImage.png" width="1000">
 </p>
 
-### Features
+### **Features**
 - 
 - 
 - 
 
 
-## Ratings
+## **Ratings**
 
-Difficulty: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
+**Difficulty:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
 
-Parts needed: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3/5  ⭐⭐⭐⚫⚫
+**Parts needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3/5  ⭐⭐⭐⚫⚫
 
-Cost: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
+**Cost:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
 
-Usefulness: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
+**Usefulness:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
 
-Time needed: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
+**Time needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/5  ⭐⭐⭐⭐⭐
 
-## REPORT (?)
+## **REPORT** (?)
 
 Check the report in the repository if avaiable.
 
 ---
 
-## 3D MODELS IMAGES (if necessary)
+## **3D MODELS IMAGES** (if necessary)
 
 <p class="3D MODELS IMAGES" align="center">
   <img align="center" src="./src/images/sampleImage.png" width="1000">
@@ -51,23 +51,23 @@ Check the report in the repository if avaiable.
 (Do you want to have it printed? Click Here.)
 
 
-## Wiring diagram (if necessary)
+## **Wiring diagram** (if necessary)
 
 <p class="Electrical Diagram Image" align="center">
   <img align="center" src="./src/images/sampleImage.png" width="1000">
 </p>
 
-Hardware components:
+**Hardware components:**
 - 1 x Arduino
 - 5 x 220Ohm Resistor 
 - ecc
 
-Necessary tools:
+**Necessary tools:**
 - Soldering Iron
 - 3D Printer 
 - ecc
 
-### How to assemble it
+### **How to assemble it**
 
 1. Phase 1
 2. Phase 2
@@ -78,15 +78,15 @@ Necessary tools:
 
 ---
 
-## GALLERY:
+## **GALLERY:**
 
-### RENDER
+### **RENDER**
 
 <p class="Single Image Render?" align="center">
   <img align="center" src="./src/images/sampleImage.png" width="1000">
 </p>
 
-## IRL (Project Completed)
+## **IRL (Project Completed)**
 
 <p class="Multiple IRL Images?" align="center">
   <img align="center" src="./src/images/sampleImage.png" width="1000">
